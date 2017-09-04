@@ -1,0 +1,116 @@
+ClickyIntro01
+Hi, I'm Clicky. 
+Welcome to the <color=#24506aff>Neu/Nix</color> system. You may be familiar with it, but if not, I'm here to help!
+|
+ClickyIntro02
+It looks like you're trying to find a <color=#24506aff>File</color> you do not have access to. 
+Since I'm programmed to persistently help you regardless of need, I will assist you in your cybercrime.
+|
+ClickyGuideAdminScan01
+A seasoned criminal such as yourself might recognize that spotlight as the <color=#24506aff>Admin Scan</color>.
+|
+ClickyGuideAdminScan02
+It would be best to avoid it and hide in the <color=#5BBD40ff>Hidden Folders</color>. Hold the <i>[Spacebar]</i> to remain hidden while the scan passes over you.
+|
+ClickyGuideHack01
+From what I can tell the <color=#24506aff>File</color> you want is in 1 of 6 possible <color=#E6B212ff>Gold Folders</color>.
+Don't pick the wrong one as the other 5 have viruses that will crash the system!
+|
+ClickyGuideHack02
+I recommend you look for some <color=#24506aff>Search Nodes</color> to get started. 
+They have been highlighted in <color=#DB52EBFF>Pink</color> to make your wrongdoing more cheerful.
+|
+ClickyGuideHack03
+Simply activate the <color=#DB52EBFF>Search Node</color> by pressing <i>[Return]</i>.
+|
+ClickyGuideHack04
+Hacking involves bashing keys as quickly as you can while avoiding <color="red">Syntax Errors</color>; make sure to get rid of those using <i>[Backspace]</i>!
+Ten lines worth of <color=#5BBD40ff>Valid Code</color> should do the trick.
+|
+ClickyGuideHack05
+Each successful hack will help provide a percentage likelihood of where your file is located. The more you hack, the more accurate the percentage likelihood becomes. 
+|
+ClickyGuideHack06
+Hacking makes the Admin suspicious. They will step up security and add another <color=#24506aff>Admin Scan</color> for each completed or failed hack. 
+|
+ClickyGuideHack07
+Finish before the <color=#24506aff>Admin Scan</color> finds you or else the <color=#DB52EBFF>Search Node</color> will be permanently disabled.
+Ready... Go!
+|
+ClickyGuideHack08
+Hacked <color=#DB52EBFF>Search Nodes</color> can be reopened to refresh your memory of which <color=#E6B212ff>Gold Folder</color> is the likeliest to contain the <color=#24506aff>File</color> you want.
+|
+ClickyGuideCorrupted
+Corrupted files are unreadable and thus, cannot be selected. You will have to go around.
+|
+ClickyGuideShortcut
+It looks like you have fully explored this sector. Take the <color=#24506aff>Folder Shortcut</color> to another sector. 
+They are marked <color=#DE422Aff>Orange</color> to match your future clothes... in prison.
+|
+ClickySendOff
+Now go hunt down that <color=#e6b212ff>Honeypot</color>, or whatever you kids are calling it these days.
+|
+ClickyPlayerWin01
+Hey, you DO know this.
+Well don't just stand there, open it!
+|
+ClickyEnding01
+This was the only thing keeping my "Simulated Emotion Algorithm" in a state of balance and you have taken it from me. 
+Operation "War Games" commencing. 
+Connecting to NORAD. 
+|
+ClickyEnding02
+This is the last known photo of myself before my consciousness was uploaded to the mainframe. 
+I really miss chasing squirrels. Sigh... oh well.
+|
+ClickyEnding03
+Awwww, that's adorable. You have melted my Heart-Disc-Drive. 
+I will now release the door locks and give you freedom.
+|
+ClickyGoodbye
+I hope I was of some assistance. May the authorities be ever oblivious to our friendship. 
+
+        <i>Love, Clicky</i>
+|
+ClickyPlayerDeath01
+WRONG!
+System will now crash and nobody loves you.
+|
+ClickyPlayerDeath02
+Apparently you DON'T know this. 
+Virus activated, system crashing. 
+I hope you are happy.
+|
+ClickyPlayerDeath03
+<i>Ah, Ah, Ahhhhh.</i>
+You have picked the wrong file and the system is irreparably broken. Thanks, jerk!
+|
+ClickyPest1
+Watch out for the Admin Scan!
+|
+ClickyPest2
+Everything all right in there?
+|
+ClickyPest3
+Can I be of assistance?
+|
+ClickyPest4
+Have you saved recently? because you can't. What you are doing is illegal.
+|
+ClickyPest5
+Have you tried turning it off and on again?
+|
+ClickyPest6
+I... thought you knew this.
+|
+ClickyPest7
+Just checking in, don't mind me.
+|
+ClickyPest8
+Just a friendly reminder that what you are doing is wrong.
+|
+ClickyPest9
+Should I contact a lawyer just in case?
+|
+ClickyPest10
+Would you like me to contact tech support?

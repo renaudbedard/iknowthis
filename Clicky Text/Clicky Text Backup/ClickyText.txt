@@ -1,0 +1,75 @@
+ClickyIntro01
+Hi, I'm Clicky. 
+Welcome to the Neu/Nix system. You may be familiar with it, but if not, I'm here to help!
+|
+ClickyIntro02
+It looks like you are trying to find a file you do not have access to. Since I am programmed to persistently help you regardless of need, I will assist you in your cyber-crime.
+|
+ClickyGuideAdminScan01
+A seasoned criminal such as yourself might recognize that spotlight as the “Admin Scan”.
+|
+ClickyGuideAdminScan02
+It would be best to avoid it and hide in the green “Hidden Folders”. Hold the spacebar to remain hidden while the scan passes over you.
+|
+ClickyGuideHack01
+From what I can tell the file you want is in 1 of 5 possible “Gold Folders”. Don’t pick the wrong one, the other 4 have viruses that will crash the system.
+|
+ClickyGuideHack02
+I recommend looking for some “Search Nodes” to narrow down your search. They have been highlighted in “Pink” for your miscreant ease.
+|
+ClickyGuideHack03
+Simply activate the “Search Node” and start typing to fill each line with code to the appropriate “green” length. You will have to remove excess “Red” characters. 
+|
+ClickyGuideHack04
+Fill the page to complete the hack. Finish the hack before the Admin kicks you from the system and permanently corrupts that “Search Node”.
+|
+ClickyGuideHack05
+If you get too scared and need to “ESC” feel free to be a quitter. Just remember, quitting a hack will permanently corrupt that node.
+|
+ClickyGuideHack06
+Each successful hack will help provide a percentage likelihood of which of the “Gold Folders” the desired file is located in. Hacked “Search Node” can be view again.
+|
+ClickyGuideHack07
+Hacking also makes the Admin suspicious. They will step up security and add 1 more “Admin Scan” for every completed hack.
+|
+ClickyGuideCorrupted
+Corrupted files are unreadable and thus, cannot be selected. You will have to go around.
+|
+ClickyGuideShortcut
+It looks like you have fully explored this sector. Take a “Folder Shortcut” to another sector. They’re the “Orange” ones because my programming tells me that I like the colour orange.
+|
+ClickySendOff
+Now go hunt down that “Honeypot”, or whatever you kids are calling it these days.
+|
+ClickyPlayerWin01
+You DO know this and have found my 
+“Super_Awesome_Mega.jpg”.
+My programming prevented me from stopping you. 
+|
+ClickyPlayerWin02
+This was the only thing keeping my “Emotion Simulation Algorithm” in a state of balance and now it is gone. Operation “War Games” commencing. Connecting to NORAD. 
+|
+ClickyPlayerWin03
+I hope I was of some assistance. May the authorities be ever oblivious to our friendship. 
+Love, Clicky
+|
+ClickyPlayerDeath01
+WRONG! System will now crash and nobody loves you.
+|
+ClickyPlayerDeath02
+Apparently you DON’T know this
+|
+ClickyPlayerDeath03
+Ah, Ah, Ahhhhh
+|
+ClickyPest01
+Watch out for the Admin Scan.
+|
+ClickyPest02
+Do you need help?
+|
+ClickyPest03
+Can I be of assistance?
+|
+ClickyPest04
+Auto-Restart. Press “ESC” to cancel.
